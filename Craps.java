@@ -78,3 +78,22 @@ public class Craps
 
     }
 }
+
+
+/* 
+
+COMMENTS FROM THE INSTRUCTOR:
+
+This program does a nice job of displaying the basic functionality
+of a Craps game, Jack. Well done!
+
+You didn't implement all of the features asked for in the handout--
+a default Y/n feature, for example--and where are your @author JavaDocs
+for this file? How am I supposed to know to give you credit here? :)
+
+Overall, not bad, though!
+
+SCORE: 13/15
+
+*/
+
